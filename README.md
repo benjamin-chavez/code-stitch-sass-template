@@ -4,7 +4,8 @@
     <img src="https://codestitch.app/frontend/images/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Intermediate Starter Kit (SASS)</h3>
+  <!-- <h3 align="center">Intermediate Starter Kit (SASS)</h3> -->
+  <h3 align="center"> code-stitch-sass-template</h3>
 
   <p align="center">
     Introducing the official intermediate starter kit, presented by CodeStitch. This kit includes a pre-configured Eleventy setup that utilizes Nunjucks templating, along with a seamless integration of Decap CMS, providing an easy way to manage a blog. Everything is ready to go right from the start, offering a fantastic introduction to the advantages of a Static Site Generator, complete with SASS preprocessing.
@@ -241,4 +242,3 @@ up as so in the frontend.
     - Find "Registration Preferences", click "Edit Settings" and set registration from _Public_ to _Invite Only_
     - Find "Enable Providers" and add a provider. We recommend Google, so the client can login with Google in 1 click.
     - Find "Git Gateway" and enable it
-# code-stitch-sass-template
